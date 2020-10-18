@@ -7,8 +7,13 @@ package pboif2.pkg10119044.latihan5.kambingglobal;
 
 /**
  *
- * @author Yohana Sri Rejeki
+ * @author 
+ * NAMA     : Yohana Sri Rejeki
+ * KELAS    : PBOIF2
+ * NIM      : 10119044
+ * Deskripsi Program : Program ini berfungsi untuk menampilkan jumlah kambing sebelum ditambah dan setelah ditambah
  */
+
 public class KambingGlobal {
 
     // Variabel jumlahkambing menjadi variabel instance
